@@ -1,10 +1,12 @@
 ### 👋 Hi, I’m @kaushik-shaw
 
-🚀 I’m interested in Full Stack Development, Machine Learning, DevOps, and building AI SaaS products.
+🚀 I’m a Full Stack Developer, interested Machine Learning, DevOps, and building AI SaaS products.
 
 🌱 I’m currently learning advanced backend systems with Next.js, serverless architectures, and exploring LLM APIs like Gemini & OpenAI.
 
-🤝 I’m looking to collaborate on AI tools, SaaS projects, and open-source platforms that impact education and language learning.
+🤝 I’m looking to collaborate on:
+- AI SaaS platforms
+- Scalable backend systems
 
 📫 How to reach me:
 - Email: [kaushikshawjsr@gmail.com]
