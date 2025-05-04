@@ -20,20 +20,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![OpenAI](https://img.shields.io/badge/-OpenAI-2ea44f?style=flat-square&logo=openai)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -51,21 +37,33 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![OpenAI](https://img.shields.io/badge/-OpenAI-2ea44f?style=flat-square&logo=openai)
+
+---
+
 ### 📫 Contact Me
 
 - 📧 [kaushikshawsjr@gmail.com](mailto:kaushikshawsjr@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaushik-shaw-7689a7282)  
-- 🐦 [Twitter](https://x.com/kaushikshawsjr)
+- 🐦 [Twitter](https://x.com/kaushikshawjsr)
 
 ---
 
 ### ✨ Fun Fact
 
-> I'm a 3rd-year CSE student who’s always experimenting with tech and building cool projects like ArtifyAI, an AI Art Generator, and a conversation AI named **Project 777**! 🚀
+> I'm a 3rd-year CSE student who’s always experimenting with tech and building cool projects! 🚀
 
 ---
-
-Would you like me to generate the full README file with the links ready to copy-paste?
 
 
 <!---
