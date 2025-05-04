@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushik Shaw</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | DevOps Learner</h3>
+<h3 align="center">Full Stack Developer | AI/ML | DevOps </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushik-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik-shaw" />
-  <img src="https://img.shields.io/badge/Grade-A%2B-brightgreen?style=flat-square" alt="grade-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20SaaS-critical?style=flat-square&color=blueviolet" alt="focus-badge" />
 </p>
 
@@ -12,10 +11,10 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently building **AI SaaS products** and contributing to **Open Source**
-- 🌱 Learning **Next.js, serverless architecture, Golang**, and LLM APIs like Gemini & OpenAI
+- 🌱 Learning **DSA, serverless architecture, Golang**, and LLM APIs like Gemini & OpenAI
 - 👯 Looking to collaborate on:  
   - Scalable backend systems  
-  - Language learning platforms  
+  - SaaS Ideas  
 - 🧠 I love mixing tech with creativity and solving real-world problems
 
 ---
