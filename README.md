@@ -44,6 +44,10 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-2ea44f?style=flat-square&logo=openai)
@@ -55,12 +59,6 @@
 - 📧 [kaushikshawsjr@gmail.com](mailto:kaushikshawsjr@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaushik-shaw-7689a7282)  
 - 🐦 [Twitter](https://x.com/kaushikshawjsr)
-
----
-
-### ✨ Fun Fact
-
-> I'm a 3rd-year CSE student who’s always experimenting with tech and building cool projects! 🚀
 
 ---
 
