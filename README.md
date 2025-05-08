@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushik-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik-shaw" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20SaaS-critical?style=flat-square&color=blueviolet" alt="focus-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web Development%20%26%20AI%2FML%20%26%20DevOps-critical?style=flat-square&color=blueviolet" alt="focus-badge" />
 </p>
 
 ---
